@@ -32,6 +32,12 @@ TABLE OF CONTENTS
    Global Styles
    ================================================ */
 
+tr {
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-color: #eee;
+}
+
 body,
 html {
     overflow-x: hidden;
